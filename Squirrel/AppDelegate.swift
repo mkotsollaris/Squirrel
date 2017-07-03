@@ -4,7 +4,7 @@
 //
 //  Created by mkotsollaris on 2017-07-03.
 //  Copyright © 2017 mkotsollaris. All rights reserved.
-//
+// Minor change
 
 import Cocoa
 
