@@ -498,6 +498,7 @@
 				5045FB8C1F0AEF210027B731 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5045FB8D1F0AEF210027B731 /* Build configuration list for PBXNativeTarget "SquirrelTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +507,7 @@
 				5045FB8F1F0AEF210027B731 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5045FB901F0AEF210027B731 /* Build configuration list for PBXNativeTarget "SquirrelUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +516,7 @@
 				5045FB921F0AEF210027B731 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
